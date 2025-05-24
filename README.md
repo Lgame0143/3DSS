@@ -7,4 +7,6 @@ Right now I have:
 - A mini wiki for the DSi and 3DS;
 - Images!;
 - And other things (Miscellaneous)!
+## Want to acess my website? Just go here:
+[The website](https://lgame0143.github.io/3DSS/)
 ### I will put updates here!
