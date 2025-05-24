@@ -3,7 +3,8 @@
 (This is a starting project, and it will have some updates.)
 ## This is still on Alpha, so there will be a lot of testing on new things to put on this project.
 Right now I have:
--A main page (With a feedback link to GBATemp);
--A mini wiki for the DSi and 3DS;
--Images!;
--And other things (Miscellaneous)!
+- A main page (With a feedback link to GBATemp);
+- A mini wiki for the DSi and 3DS;
+- Images!;
+- And other things (Miscellaneous)!
+### I will put updates here!
